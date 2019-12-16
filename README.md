@@ -1,5 +1,3 @@
-# ADprojectTeamSticker
-
-swp2 adproject sourcode\n
-20130178 박현서
-20191560 김서경
+# swp2 adproject sourcode
+# 20130178 박현서
+# 20191560 김서경
