@@ -141,7 +141,7 @@ class MyApp(QWidget):
         self.uploadButton = QPushButton("업로드")
 
         #내　블로그　해당　카테고리링크를　qlabel에　하이퍼링크로　걸기
-        bloglink=QLabel("<a href=\"https://blog.naver.com/PostList.nhn?blogId=colisel&from=postList&categoryNo=39\">"
+        bloglink=QLabel("<a href=\"mybloglink\">"
                         "Click this link to go to my naverblog sticker category</a>")
         bloglink.setOpenExternalLinks(True)
 
